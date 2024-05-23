@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Foodio/static/css/main.e03288cb.css",
+    "main.js": "/Foodio/static/js/main.232c0626.js",
+    "static/media/meals.jpg": "/Foodio/static/media/meals.7c301857051e97eed867.jpg",
+    "index.html": "/Foodio/index.html",
+    "main.e03288cb.css.map": "/Foodio/static/css/main.e03288cb.css.map",
+    "main.232c0626.js.map": "/Foodio/static/js/main.232c0626.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e03288cb.css",
+    "static/js/main.232c0626.js"
+  ]
+}
