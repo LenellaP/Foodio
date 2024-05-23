@@ -1,0 +1,18 @@
+/* Імпортуємо шрифт Noto Sans JP з Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+/* Застосовуємо box-sizing: border-box до всіх елементів, включаючи псевдоелементи */
+* {
+  box-sizing: border-box;
+}
+
+/* Встановлюємо шрифт для всього HTML документа */
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* Стилізація тіла документа */
+body {
+  margin: 0; /* Встановлюємо відсутність зовнішнього відступу */
+  background-color: #a6a2a2; /* Встановлюємо фон для тіла документа темно-сірого кольору */
+}
